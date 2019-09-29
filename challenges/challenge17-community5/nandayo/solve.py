@@ -41,7 +41,7 @@ else:
 LIBC = pwn.ELF(LIBC_PATH)
 
 
-# Really gross of parsing out the leaked data...
+# Really gross way of parsing out the leaked data...
 def grossLeak(leak, payload):
     try:
         # Get what we're interested in.
