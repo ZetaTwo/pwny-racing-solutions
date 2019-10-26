@@ -1,6 +1,6 @@
 # Challenge 17 - Community 5
 
-## Participant solutions
+## Solutions
 
-
-## Other solutions
+* [nandayo](nandayo/solve.py)
+* [peace-maker](peace-maker/README.md)
