@@ -1,6 +1,6 @@
 # Challenge 19 - Community 6
 
-## Participant solutions
+## Solutions
 
-
-## Other solutions
+* [alfink](alfink/exploit.py)
+* [peace-maker](peace-maker/doit.py)
