@@ -5,3 +5,4 @@
 * [rkevin](rkevin/exp.py)
 * [alfink](alfink/exploit.py)
 * [Axel '0vercl0k' Souchet](0vercl0k/pwn21.py)
+* [nandayo](nandayo/solve.py)
